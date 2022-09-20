@@ -1,5 +1,5 @@
 # hgt-microbiome-stability
-Code and raw data relating to working manuscript "Horizontal gene transfer increases microbiome stability"
+Code and raw data relating to working manuscript "Horizontal gene transfer and ecological interactions jointly control microbiome stability"
 
 Running main_oct29.m will run the main analysis for interacting communities (Fig 3). To explore other scenarios (eg non-interacting communities, constrained plasmid transfer etc etc) simply alter corresponding parameters
 
